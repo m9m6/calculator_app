@@ -27,4 +27,7 @@ lib/
 - Material Design
 
 ## 🎯 Purpose
-This project was built to practice Flutter UI building, state management, and clean code separation.
+This project was built to practice Flutter UI building, state management, and clean code separation
+
+<img width="180" height="480" alt="image" src="https://github.com/user-attachments/assets/00f827d4-0a57-4c46-b10f-20be15fa976a" />
+
